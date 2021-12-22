@@ -1,4 +1,4 @@
-# Jswap V2 Subgraph
+# Jswap Subgraph
 
 [Jswap](https://jswap.finance/) is a decentralized protocol for automated token exchange on Ethereum.
 
